@@ -1,6 +1,6 @@
 ### Hi there, I'm Progress👋
 
-- A medical Doctor turned Software Engineer | Machine learning enthusiasist
+- A medical Doctor turned Software Engineer | Machine learning enthusiast
 - 🔭 I’m currently working on MERN stack proJects ...
 - 🌱 I’m currently learning react-native and python(Machine learning)...
 - Technologies I am familiar with [HTML, CSS, ]S, REACT, MONGO-DB, SQL, PYTHON, NODE JS, EXPRESS,...{a bit of JAVA} ]
