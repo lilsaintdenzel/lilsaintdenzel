@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on MERN stack proJects.
 - 🌱 Learning react-native and python(Machine learning)...
 - Technologies I am familiar with [HTML, CSS, ]S, REACT, MONGO-DB, SQL, PYTHON, NODE JS, EXPRESS,...{a bit of JAVA} ]
-- 👯...
-- Fun Fact: I play guitar and piano.
+
+
 
 
 <!--
