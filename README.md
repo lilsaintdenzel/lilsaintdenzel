@@ -1,9 +1,5 @@
 ### Hi there, I'm Progress👋
 
-- A medical Doctor turned Software Engineer 
-- 🔭 I’m currently working on MERN stack projects.
-- 🌱 Learning python(Machine learning)...
-- Technologies I am familiar with [HTML, CSS, ]S, REACT, MONGO-DB, SQL, PYTHON, NODE JS]
 
 
 
