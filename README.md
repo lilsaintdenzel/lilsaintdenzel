@@ -39,8 +39,9 @@
 
 ## 📫 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%40lilsaintdenzel-DD2476?logo=instagram&logoColor=white)](https://instagram.com/lilsaintdenzel)  
-[![YouTube](https://img.shields.io/badge/YouTube-OrishBeats-FF0000?logo=youtube&logoColor=white)](#)  
-[![Spotify](https://img.shields.io/badge/Spotify-Orish-1DB954?logo=spotify&logoColor=white)](#)  
+[![YouTube](https://img.shields.io/badge/YouTube-LilsaintDenzel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@lilsaintdenzel)  
+[![Spotify](https://img.shields.io/badge/Spotify-ProgressOrish-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/0goAqUqnNaKPQYdweb5cXF?si=FuT07ZojT4GYlkUuKu7acw)
+)  
 
 ---
 
