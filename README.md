@@ -9,7 +9,7 @@
 - ⚡ **Elixir Algorithms** → building 100 mini-projects & 35 real-world applicable ones  
 - 🚀 Exploring **System Design, Software Architecture & Backend Engineering**  
 - 🎬 **Creative Coding Animations** → pairing Scripture + code for YouTube & Instagram  
-- 🎵 **Beat Tapes & Albums** (*Untethered, Kavah, I Agree with the Lord, Case File: Moshia*)  
+- 🎵 **Beat Tapes & Albums** (*Untethered, Kavah, Case File: Moshia*)  
 - 🕶️ **PreachCode VR + AR apps** for Scripture engagement  
 
 ---
