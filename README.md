@@ -41,7 +41,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40lilsaintdenzel-DD2476?logo=instagram&logoColor=white)](https://instagram.com/lilsaintdenzel)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ProgressOrish-0077B5?logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/progressorish)  
 [![YouTube](https://img.shields.io/badge/YouTube-LilsaintDenzel-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@lilsaintdenzel)  
-[![Spotify](https://img.shields.io/badge/Spotify-ProgressOrish-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/0goAqUqnNaKPQYdweb5cXF?si=FuT07ZojT4GYlkUuKu7acw)  
+[![Spotify](https://img.shields.io/badge/Spotify-ProgressOrish-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/0goAqUqnNaKPQYdweb5cXF?si=FuT07ZojT4GYlkUuKu7acw)
+[![Apple Music](https://img.shields.io/badge/Apple Music-StreamWithMe-000000?logo=apple&logoColor=white)](https://music.apple.com/us/artist/lilsaintdenzel/1702264520)  
+
 
 
 
