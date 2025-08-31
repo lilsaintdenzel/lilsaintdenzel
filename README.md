@@ -37,6 +37,19 @@
 
 ---
 
+##  Sonic Spotlight
+
+- Latest single: **80 Summers** *(Aug 28, 2025)*  
+- Recent EP: **SOLAS** (2025), featuring *Soli Deo Gloria*, *Solus Christus*, *Sola Gratia*, *Sola Fide*, *Sola Scriptura*  
+- Albums:
+  - **HeartWare** (2025)  
+  - **Dark Clouds Deep Mercy** (2024)  
+  - **Imago Dei** (2024)  
+  - **Euangelion** (2024)  
+  - **Panta Synergy** (2023)
+
+---
+
 ## 📫 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%40lilsaintdenzel-DD2476?logo=instagram&logoColor=white)](https://instagram.com/lilsaintdenzel)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ProgressOrish-0077B5?logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/progressorish)  
