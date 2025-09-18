@@ -16,7 +16,6 @@
 
 ## 🌱 Currently Learning  
 - 📚 *Designing Data-Intensive Applications* + *System Design*  
-- 💡 **Quant Software Engineering Roadmap**  
 - 🎨 Generative Art · 3D Web · Blender Animations  
 
 ---
