@@ -41,6 +41,7 @@
 - Latest single: **80 Summers** *(Aug 28, 2025)*  
 - Recent EP: **SOLAS** (2025), featuring *Soli Deo Gloria*, *Solus Christus*, *Sola Gratia*, *Sola Fide*, *Sola Scriptura*  
 - Albums:
+  - **EST. 1995** (2025)  
   - **HeartWare** (2025)  
   - **Dark Clouds Deep Mercy** (2024)  
   - **Imago Dei** (2024)  
