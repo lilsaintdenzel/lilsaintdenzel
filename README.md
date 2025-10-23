@@ -37,8 +37,6 @@
 ---
 
 ##  Sonic Spotlight
-
-- Recent EP: **SOLAS** (2025), featuring *Soli Deo Gloria*, *Solus Christus*, *Sola Gratia*, *Sola Fide*, *Sola Scriptura*  
 - Albums:
   - **EST. 1995** (2025)  
   - **HeartWare** (2025)  
