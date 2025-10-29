@@ -30,7 +30,7 @@
 
 ## 🎶 Beyond Code  
 - 🎹 Multi-instrumentalist (*piano · guitar · bass*)  
-- 🎛️ Producer name: **(Lilsaintdenzel)**  
+- 🎛️ Producer name: **Lilsaintdenzel**  
 - 🎥 Sharing **lofi hip-hop, audio visualizers, and coding + Scripture storytelling**  
 - 🏷️ BeatTag: *“It’s Eight28 – All Sonics Working Together”*  
 
