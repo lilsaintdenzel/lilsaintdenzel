@@ -9,7 +9,6 @@
 - ⚡ **Elixir Algorithms** →  35 real-world applicable ones  
 - 🚀 Exploring **System Design, Software Architecture & Backend Engineering**  
 - 🎬 **Creative Coding Animations** → pairing Scripture + code for YouTube & Instagram  
-- 🎵 **Beat Tapes & Albums** (*Untethered, Kavah, Case File: Moshia*)  
 - 🕶️ **PreachCode VR + AR apps** for Scripture engagement  
 
 ---
