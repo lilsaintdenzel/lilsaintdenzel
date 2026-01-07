@@ -37,6 +37,7 @@
 
 ##  Sonic Spotlight
 - Albums:
+  - **Case File: Moshia** (2025)  
   - **EST. 1995** (2025)  
   - **HeartWare** (2025)  
   - **Dark Clouds Deep Mercy** (2024)  
