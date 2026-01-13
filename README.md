@@ -6,7 +6,6 @@
 ---
 
 ## 🔭 Currently Working On  
-- ⚡ **Elixir Algorithms** →  35 real-world applicable ones  
 - 🚀 Exploring **System Design, Software Architecture & Backend Engineering**  
 - 🎬 **Creative Coding Animations** → pairing Scripture + code for YouTube & Instagram  
 - 🕶️ **PreachCode VR + AR apps** for Scripture engagement  
