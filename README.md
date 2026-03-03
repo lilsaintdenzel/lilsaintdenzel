@@ -36,7 +36,7 @@
 
 ##  Sonic Spotlight
 - Albums:
-  - **Concordia Sonorum** (2025)
+  - **Concordia Sonorum** (2026)
   - **Case File: Moshia** (2025)  
   - **EST. 1995** (2025)  
   - **HeartWare** (2025)  
