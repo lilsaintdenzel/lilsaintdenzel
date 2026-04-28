@@ -27,23 +27,23 @@
 ---
 
 ## 🎶 Beyond Code  
-- 🎹 Multi-instrumentalist (*piano · guitar · bass · Acoustic*)  
-- 🎛️ Producer name: **LilsaintDenzel**  
-- 🎥 Sharing **lofi hip-hop, audio visualizers, and coding + Scripture storytelling**  
-- 🏷️ BeatTag: *“It’s Eight28 – All Sonics Working Together”*  
+ 🎹 Multi-instrumentalist (*piano · guitar · bass · Acoustic*)  
+ 🎛️ Producer name: **LilsaintDenzel**  
+ 🎥 Sharing **lofi hip-hop, audio visualizers, and coding + Scripture storytelling**  
+ 🏷️ BeatTag: *“It’s Eight28 – All Sonics Working Together”*  
 
 ---
 
 ##  Sonic Spotlight
-- Albums:
-  - **Concordia Sonorum** (2026)
-  - **Case File: Moshia** (2025)  
-  - **EST. 1995** (2025)  
-  - **HeartWare** (2025)  
-  - **Dark Clouds Deep Mercy** (2024)  
-  - **Imago Dei** (2024)  
-  - **Euangelion** (2024)  
-  - **Panta Synergy** (2023)
+ Albums:
+   **Concordia Sonorum** (2026)
+   **Case File: Moshia** (2025)  
+   **EST. 1995** (2025)  
+   **HeartWare** (2025)  
+   **Dark Clouds Deep Mercy** (2024)  
+   **Imago Dei** (2024)  
+   **Euangelion** (2024)  
+   **Panta Synergy** (2023)
 
 ---
 
