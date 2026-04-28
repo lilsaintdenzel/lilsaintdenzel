@@ -6,23 +6,23 @@
 ---
 
 ## 🔭 Currently Working On  
-- 🚀 Exploring **System Design, Software Architecture & Backend Engineering**  
-- 🎬 **Creative Coding Animations** → pairing Scripture + code for YouTube & Instagram  
-- 🕶️ **PreachCode VR + AR apps** for Scripture engagement  
+ 🚀 Exploring **System Design, Software Architecture & Backend Engineering**  
+ 🎬 **Creative Coding Animations** → pairing Scripture + code for YouTube & Instagram  
+ 🕶️ **PreachCode VR + AR apps** for Scripture engagement  
 
 ---
 
 ## 🌱 Currently Learning  
-- 📚 *Designing Data-Intensive Applications* + *System Design*  
-- 🎨 Generative Art · 3D Web · Blender Animations  
+ 📚 *Designing Data-Intensive Applications* + *System Design*  
+🎨 Generative Art · 3D Web · Blender Animations  
 
 ---
 
 ## 👯 Looking to Collaborate On  
-- 🔹 **Elixir / Functional Programming projects**  
-- 🔹 **Backend systems, algorithms, & data engineering**  
-- 🔹 **Creative coding, VR/AR faith-based apps, & generative visuals**  
-- 🔹 **Music-tech crossovers** (sync, tools, or audio-visual experiments)  
+ 🔹 **Elixir / Functional Programming projects**  
+ 🔹 **Backend systems, algorithms, & data engineering**  
+ 🔹 **Creative coding, VR/AR faith-based apps, & generative visuals**  
+ 🔹 **Music-tech crossovers** (sync, tools, or audio-visual experiments)  
 
 ---
 
