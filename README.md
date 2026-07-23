@@ -13,7 +13,7 @@
 ---
 
 ## 🌱 Currently Learning  
-📚 *Designing Data-Intensive Applications* + *System Design*  
+📚 *System Design*  
 🎨 Generative Art · 3D Web · Shader Animations  
 
 ---
