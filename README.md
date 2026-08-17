@@ -36,8 +36,9 @@
 
 ## 🎧 Sonic Spotlight  
 
-### 📀 Albums  
+### 📀 Albums
 
+**KATALLAGE** *(2026)*  
 **Concordia Sonorum** *(2026)*  
 **Case File: Moshia** *(2025)*  
 **EST. 1995** *(2025)*  
